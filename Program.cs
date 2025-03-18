@@ -1,3 +1,8 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Http;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -14,13 +19,10 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseStaticFiles();  // ✅ Correct way to serve static files
 app.UseRouting();
-
 app.UseAuthorization();
 
-app.MapStaticAssets();
-app.MapRazorPages()
-   .WithStaticAssets();
+app.MapRazorPages(); // ✅ Correct mapping for Razor Pages
 
 app.Run();
