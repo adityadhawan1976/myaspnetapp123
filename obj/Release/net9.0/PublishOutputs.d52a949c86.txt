@@ -1,0 +1,13 @@
+C:\Users\harsh\MyAspNetApp\publish\MyAspNetApp.exe
+C:\Users\harsh\MyAspNetApp\publish\publish\web.config
+C:\Users\harsh\MyAspNetApp\publish\appsettings.Development.json
+C:\Users\harsh\MyAspNetApp\publish\appsettings.json
+C:\Users\harsh\MyAspNetApp\publish\publish\appsettings.Development.json
+C:\Users\harsh\MyAspNetApp\publish\publish\appsettings.json
+C:\Users\harsh\MyAspNetApp\publish\publish\MyAspNetApp.deps.json
+C:\Users\harsh\MyAspNetApp\publish\publish\MyAspNetApp.runtimeconfig.json
+C:\Users\harsh\MyAspNetApp\publish\publish\MyAspNetApp.staticwebassets.endpoints.json
+C:\Users\harsh\MyAspNetApp\publish\MyAspNetApp.dll
+C:\Users\harsh\MyAspNetApp\publish\MyAspNetApp.deps.json
+C:\Users\harsh\MyAspNetApp\publish\MyAspNetApp.runtimeconfig.json
+C:\Users\harsh\MyAspNetApp\publish\MyAspNetApp.pdb
